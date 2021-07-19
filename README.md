@@ -4,7 +4,7 @@ GAMES101: 现代计算机图形学入门 作业
 
 ### 作业 1 旋转与投影
 
-![01-00](images/01-00.png)
+![01-00](/images/01-00.png)
 
 ### 作业 2 Triangles and Z-buffering
 
